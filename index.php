@@ -38,12 +38,4 @@ $row =  $DB->get('test');
 
 //$row = $DB->select('*')->from('test')->where('id = 6',true);
 
-
-print_r($DB);
-
-echo "<hr>";
-echo $DB->Messages();
-
-
-
-
+echo "<hr>" . $DB->Messages();

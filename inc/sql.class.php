@@ -1,8 +1,8 @@
 <?php
 
 /**
- * @
- *
+ * @author Daniel Albrecht [http://bemoredifferent.com]
+ * @abstract 
  *
  */
 class SQL {
