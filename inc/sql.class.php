@@ -1,9 +1,8 @@
 <?php
 
 /**
+ * @
  *
- *
- * foreach(PDO::getAvailableDrivers() as $d) echo $d.' - ';
  *
  */
 class SQL {
