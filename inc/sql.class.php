@@ -2,7 +2,7 @@
 
 /**
  * @author Daniel Albrecht [http://bemoredifferent.com]
- * @abstract 
+ * @abstract PHP PDP CRUD class 
  *
  */
 class SQL {
